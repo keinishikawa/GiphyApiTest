@@ -1,2 +1,0 @@
-# GiphyApiTest
-Created with CodeSandbox
